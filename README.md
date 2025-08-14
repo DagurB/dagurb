@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/PE%20problems%20Solved-189-brightgreen" alt="PE Solved Badge"/>
   </a>
   <a href="https://projecteuler.net/progress">
-    <img src="https://img.shields.io/badge/PE%20placing-0.343%25-brightgreen" alt="PE Placing Badge"/>
+    <img src="https://img.shields.io/badge/PE%20placing-0.291%25-brightgreen" alt="PE Placing Badge"/>
   </a>
   <a href="https://cryptohack.org/user/Dagurb/">
     <img src="https://img.shields.io/badge/Cryptohack-%23143-brightgreen" alt="CH Placing badge"/>
