@@ -1,6 +1,6 @@
 <div id="badges">
   <a href="https://projecteuler.net/location=Iceland">
-    <img src="https://img.shields.io/badge/PE%20problems%20Solved-182-brightgreen" alt="PE Solved Badge"/>
+    <img src="https://img.shields.io/badge/PE%20problems%20Solved-189-brightgreen" alt="PE Solved Badge"/>
   </a>
   <a href="https://projecteuler.net/progress">
     <img src="https://img.shields.io/badge/PE%20placing-0.343%25-brightgreen" alt="PE Placing Badge"/>
