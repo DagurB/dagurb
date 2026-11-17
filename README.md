@@ -20,6 +20,8 @@ Sagemath apologist
 
 Am John Kubernetes at work
 
+See [dagurb.com](https://dagurb.com) for some of my writeups and blog posts about computational mathematics
+
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dagurb&theme=highcontrast)](https://git.io/streak-stats) 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagurb&layout=compact&theme=vision-friendly-dark&hide=javascript,html,makefile,cmake)](https://github.com/anuraghazra/github-readme-stats)
