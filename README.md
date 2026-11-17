@@ -14,7 +14,11 @@
 
 ### About me
 
-I am a penetration tester with an interest in cryptography
+I compete with Kalmarunionen and Pwnagaukar, specializing in cryptography.
+
+Sagemath apologist
+
+Am John Kubernetes at work
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dagurb&theme=highcontrast)](https://git.io/streak-stats) 
  
